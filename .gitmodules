@@ -1,0 +1,3 @@
+[submodule "vagrant-hdfs"]
+	path = vagrant-hdfs
+	url = https://github.com/mapleFU/vagrant-hdfs
